@@ -1,4 +1,4 @@
-# TWANG
+# TWANG (Fork)
 A Arduino-based, 1D, LED loving, dungeon crawler. inspired by Line Wobbler by Robin B
 
 ## Video playlist
